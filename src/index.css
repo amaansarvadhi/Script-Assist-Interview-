@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mantine-Input-input {
+  border-radius: 10px !important;
+}
+
+.mantine-InputWrapper-label {
+  color: black;
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+}
